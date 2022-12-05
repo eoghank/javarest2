@@ -30,7 +30,7 @@ spec:
         description: Manage customer profiles
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/eoghank/javarest2.git
       ref:
         branch: main
   serviceClaims:
